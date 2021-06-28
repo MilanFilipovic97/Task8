@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/iTZvJDKevQjOj2Ps9OfCxy3kuDQVpBa3hdpB7qqzKFBimLqSLNWBXR4IDUz/6EhLgJsNwBmiPSzE9iLCDmEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\console app\\8\\Task8\\Task8\\Task8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\bin\Debug\netcoreapp3.1\Task8.exe
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\bin\Debug\netcoreapp3.1\Task8.deps.json
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.json
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\bin\Debug\netcoreapp3.1\Task8.dll
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\bin\Debug\netcoreapp3.1\Task8.pdb
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\obj\Debug\netcoreapp3.1\Task8.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\obj\Debug\netcoreapp3.1\Task8.dll
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\obj\Debug\netcoreapp3.1\Task8.pdb
+C:\Users\Korisnik\Desktop\console app\8\Task8\Task8\obj\Debug\netcoreapp3.1\Task8.genruntimeconfig.cache
